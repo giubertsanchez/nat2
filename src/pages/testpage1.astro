@@ -1,11 +1,12 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import image1 from "../assets/astro.svg";
 ---
 
 <Layout>
     image for test
 
-    <img src="/src/assets/astro.svg" alt="Test Image" />
+    <img src={image1.src} alt="Test Image" />
     <p>This is a test page to display an image.</p>
     <p>Feel free to modify this page as needed.</p>
     <p>Check the image path and ensure the image exists in the specified directory.</p>
