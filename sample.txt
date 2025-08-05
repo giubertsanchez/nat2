@@ -1,1 +1,12 @@
 sample text file to enable rep
+
+create astro
+create pages
+create imgs
+
+test on vercel
+  add vercel addon?
+  remove vercel
+test on netlify
+  add netlify addon
+  remove netlify
